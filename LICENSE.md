@@ -1,4 +1,4 @@
-# 
+# 高级 动量交易机器人 模板 for Mac OS | 精英 动量交易机器人 模板 for PC Windows. Featuring 均值回归策略 and 动量分析 — optimized for maximum performance.
 
 
 
